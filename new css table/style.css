@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+ background-color: cadetblue;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVhAg6uGttz8BL8X9eirI1XVy65sIbmfkckA&usqp=CAU) center /cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+th img{
+    width: 36px;
+    height: 36px;
+    margin-right: 5rem;
+    border-radius: 50%;
+
+
+    vertical-align: middle;
+}
+.table, th, td{
+    padding: 1rem;
+}
+main.table{
+    width: 82vw ;
+    height: 90vh;
+    background-color: rgba(241, 241, 241, 0.397);
+    margin-top: 40px;
+
+}
+button{
+    background-color: rgb(34, 135, 250);
+    border-radius: 20px; 
+}
+.B1{
+    background-color: blueviolet;
+}
+.B2{
+    background-color: darkmagenta;
+}
+.B3{
+    background-color: greenyellow;
+}
+.B4{
+    background-color: rgb(228, 10, 75);
+}
+.B5{
+    background-color: rgb(71, 116, 21);
+}
